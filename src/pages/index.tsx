@@ -1,3 +1,5 @@
+import MapBoxComponent from "@/components/MapComponent";
+
 export default function Home() {
-  return <div>Hello Guys</div>;
+  return <MapBoxComponent />;
 }

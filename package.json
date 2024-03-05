@@ -9,21 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@radix-ui/react-aspect-ratio": "^1.0.3",
+    "@radix-ui/react-label": "^2.0.2",
+    "@radix-ui/react-separator": "^1.0.3",
     "@radix-ui/react-slot": "^1.0.2",
-    "@tanstack/react-query": "^5.18.1",
-    "@tanstack/react-query-devtools": "^5.18.1",
     "axios": "^1.6.7",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
-    "lucide-react": "^0.321.0",
+    "mapbox-gl": "^3.2.0",
     "next": "14.1.0",
+    "papaparse": "^5.4.1",
     "react": "^18",
     "react-dom": "^18",
+    "react-map-gl": "^7.1.7",
     "tailwind-merge": "^2.2.1",
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@types/node": "^20",
+    "@types/papaparse": "^5.3.14",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
